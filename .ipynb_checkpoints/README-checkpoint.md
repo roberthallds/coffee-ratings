@@ -3,8 +3,8 @@ A group project on data cleaning and analysis of a dataset regarding coffee blen
 
 ## Useful Links
 ------
-https://database.coffeeinstitute.org/coffee/357789/grade
-https://database.coffeeinstitute.org/faqs
-https://database.coffeeinstitute.org/coffees
-https://database.coffeeinstitute.org/coffees/arabica
-https://database.coffeeinstitute.org/coffees/robusta
+("Q Sample")[https://database.coffeeinstitute.org/coffee/357789/grade]
+(FAQ)[https://database.coffeeinstitute.org/faqs]
+(About Coffees - the source data?)[https://database.coffeeinstitute.org/coffees]
+(Arabica list)[https://database.coffeeinstitute.org/coffees/arabica]
+(Robusta list)[https://database.coffeeinstitute.org/coffees/robusta]
