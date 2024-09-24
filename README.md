@@ -3,9 +3,9 @@ A group project on data cleaning and analysis of a dataset regarding coffee blen
 
 ## Useful Links
 ------
-(Main Link)[https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-07/readme.md]
-("Q Sample")[https://database.coffeeinstitute.org/coffee/357789/grade]
-(FAQ)[https://database.coffeeinstitute.org/faqs]
-(About Coffees - the source data?)[https://database.coffeeinstitute.org/coffees]
-(Arabica list)[https://database.coffeeinstitute.org/coffees/arabica]
-(Robusta list)[https://database.coffeeinstitute.org/coffees/robusta]
+- [Main Link](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-07/readme.md)
+- ["Q Sample"](https://database.coffeeinstitute.org/coffee/357789/grade)
+- [FAQ](https://database.coffeeinstitute.org/faqs)
+- [About Coffees - the source data?](https://database.coffeeinstitute.org/coffees)
+- [Arabica list](https://database.coffeeinstitute.org/coffees/arabica)
+- [Robusta list](https://database.coffeeinstitute.org/coffees/robusta)
